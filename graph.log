@@ -1,0 +1,23 @@
+* 7312c07 agregando dos parrafos despuesd de las listas
+*   98882da arreglando el conflicto sobre las listas
+|\  
+| * 1753947 agregando lista de las estaciones del año
+* | 1d11c96 agregando nuevo item de lista y fechas de las estaciones del año
+|/  
+*   575ae10 resolviendo conflicto merce main/html en el documento index.html
+|\  
+| * a110cf8 agregando cambios al archivo html desde la rama html
+* | bcd9a76 agregnado style al head del html
+* |   30f273f Merge branch 'js'
+|\ \  
+| * | 612822a creando el archivo de javascript
+* | | 8e90892 Creando el archivo css
+| |/  
+|/|   
+* | 54068a2 creando el archivo html
+|/  
+* e64a916 ignorando archivos .exe
+* 90d12f7 Creando licencia del repositorio
+* 540b7c2 agregando mas contenido al readme
+* 9b76b05 Agregando contenido inicial al readme
+* 64c35a9 Primer commit 👨‍🦳

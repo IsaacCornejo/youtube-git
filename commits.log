@@ -1,0 +1,98 @@
+commit 7312c07c18c2852c7016344f1075e6f98847d958
+Author: Isaac Cornejo <espinosacornejo.pr@gmail.com>
+Date:   Mon May 1 18:13:34 2023 -0600
+
+    agregando dos parrafos despuesd de las listas
+
+commit 98882da447460ec9177190d58a367495239ff368
+Merge: 1d11c96 1753947
+Author: Isaac Cornejo <espinosacornejo.pr@gmail.com>
+Date:   Mon May 1 18:11:43 2023 -0600
+
+    arreglando el conflicto sobre las listas
+
+commit 1d11c966b95115797b4a2497091cafc14d495a94
+Author: Isaac Cornejo <espinosacornejo.pr@gmail.com>
+Date:   Mon May 1 17:57:40 2023 -0600
+
+    agregando nuevo item de lista y fechas de las estaciones del año
+
+commit 1753947ee5b751a752713e336eb4d8fa982b5c41
+Author: Isaac Cornejo <espinosacornejo.pr@gmail.com>
+Date:   Mon May 1 17:57:40 2023 -0600
+
+    agregando lista de las estaciones del año
+
+commit 575ae103959380727ecbc43ca03e824d2b7dfbed
+Merge: bcd9a76 a110cf8
+Author: Isaac Cornejo <espinosacornejo.pr@gmail.com>
+Date:   Mon May 1 17:49:04 2023 -0600
+
+    resolviendo conflicto merce main/html en el documento index.html
+
+commit a110cf8c3908ed71bfa85a06c203bc3370cfb7c9
+Author: Isaac Cornejo <espinosacornejo.pr@gmail.com>
+Date:   Mon May 1 17:44:42 2023 -0600
+
+    agregando cambios al archivo html desde la rama html
+
+commit bcd9a7691bc6a49fba763959bbde834078e90dd3
+Author: Isaac Cornejo <espinosacornejo.pr@gmail.com>
+Date:   Mon May 1 17:40:57 2023 -0600
+
+    agregnado style al head del html
+
+commit 30f273f8133fe431f15dbde307d0210599e06e6c
+Merge: 8e90892 612822a
+Author: Isaac Cornejo <espinosacornejo.pr@gmail.com>
+Date:   Mon May 1 17:32:07 2023 -0600
+
+    Merge branch 'js'
+
+commit 612822a96fe7c7bd12cf430e8e66afd4e91d6c17
+Author: Isaac Cornejo <espinosacornejo.pr@gmail.com>
+Date:   Mon May 1 17:28:36 2023 -0600
+
+    creando el archivo de javascript
+
+commit 8e9089286a7049ffbb461669ac476047858a4265
+Author: Isaac Cornejo <espinosacornejo.pr@gmail.com>
+Date:   Mon May 1 17:24:40 2023 -0600
+
+    Creando el archivo css
+
+commit 54068a2af4198a143bbfc585d1bf90d04ff4c684
+Author: Isaac Cornejo <espinosacornejo.pr@gmail.com>
+Date:   Mon May 1 17:20:14 2023 -0600
+
+    creando el archivo html
+
+commit e64a91606304a01586551c25a24c3be8e0ecd250
+Author: Isaac Cornejo <espinosacornejo.pr@gmail.com>
+Date:   Mon May 1 17:07:02 2023 -0600
+
+    ignorando archivos .exe
+
+commit 90d12f73d68096ece779bd3acb903b32bf5b57d8
+Author: IsaacCornejo <87722926+IsaacCornejo@users.noreply.github.com>
+Date:   Mon May 1 14:56:00 2023 -0600
+
+    Creando licencia del repositorio
+
+commit 540b7c2c45576db3f1152aa9b839a8746b0368cb
+Author: Isaac Cornejo <espinosacornejo.pr@gmail.com>
+Date:   Mon May 1 14:52:24 2023 -0600
+
+    agregando mas contenido al readme
+
+commit 9b76b05893d3bd1efc3187330720a788ff98ec56
+Author: Isaac Cornejo <espinosacornejo.pr@gmail.com>
+Date:   Mon May 1 14:16:45 2023 -0600
+
+    Agregando contenido inicial al readme
+
+commit 64c35a94d794f6be0c6546bad32feda8b94656bf
+Author: Isaac Cornejo <espinosacornejo.pr@gmail.com>
+Date:   Mon May 1 14:13:11 2023 -0600
+
+    Primer commit 👨‍🦳
